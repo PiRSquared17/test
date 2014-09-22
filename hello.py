@@ -1,4 +1,4 @@
-# Test
+# Hello World program
 
 def hello_world():
     ''' Print 'Hello world!' to screen '''
