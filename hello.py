@@ -1,5 +1,5 @@
 # Hello World program
-# Test
+# Test foo
 
 def hello_world():
     ''' Print 'Hello world!' to screen '''
